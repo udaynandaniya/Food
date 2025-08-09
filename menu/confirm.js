@@ -9,5 +9,5 @@ document.addEventListener("DOMContentLoaded", function () {
    
 });
 function home(){
-    window.location.href="../base/index.html";
+    window.location.href="../index.html";
 }

@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
     updateNavbar();
 });
 function ordernow(){
-    window.location.href="../menu/cocacola.html";
+    window.location.href="./menu/cocacola.html";
 }
 function startdish(){
-    window.location.href="../menu/pizza.html";
+    window.location.href="./menu/pizza.html";
 }
