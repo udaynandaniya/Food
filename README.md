@@ -1,4 +1,4 @@
-🍴 Foodie – Responsive Food Ordering Website
+🍴 Foodie : Responsive Food Ordering Website
 A clean and modern online food ordering platform built with HTML, CSS, and JavaScript. It allows users to browse a menu, add items to a cart, place orders, and get instant confirmation — all wrapped in a mobile-friendly design.
 
 ✨ Features
